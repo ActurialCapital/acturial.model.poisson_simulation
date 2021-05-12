@@ -1,9 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ActurialCapital/quantico">
-    <img src="https://github.com/ActurialCapital/luminar/blob/master/images/img1.png" width="50%" height="50%">
-  </a>
+  <img src="https://github.com/ActurialCapital/luminar/blob/main/images/img1.png" width="30%" height="30%">
+</p>
 
   <h2 align="center">Luminar</h2>
 
@@ -88,7 +87,7 @@ for i in range(0, 4): items['simulation'][i].plot()
 ```
 
 <p align="center">
-  <img src="https://github.com/ActurialCapital/luminar/blob/master/images/Figure_1.png" width="50%" height="50%">
+  <img src="https://github.com/ActurialCapital/luminar/blob/main/images/Figure_1.png" width="50%" height="50%">
 </p>  
 
 ``` 
@@ -96,7 +95,7 @@ pd.DataFrame(items['simulation']).stack().hist(bins=100)
 ```
 
 <p align="center">
-  <img src="https://github.com/ActurialCapital/luminar/blob/master/images/Figure_2.png" width="50%" height="50%">
+  <img src="https://github.com/ActurialCapital/luminar/blob/main/images/Figure_2.png" width="50%" height="50%">
 </p>
 
 ## 📖 License
