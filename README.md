@@ -4,7 +4,7 @@
   <img src="https://github.com/ActurialCapital/luminar/blob/main/images/img1.png" width="30%" height="30%">
 </p>
 
-  <h2 align="center">Luminar</h2>
+  <h2 align="center">Simulate Poisson Distribution</h2>
 
   <p align="center">
   <b>Modeling indiosyncratic risk</b>
@@ -56,7 +56,7 @@ For events with an expected separation ![equation](https://numpy.org/doc/stable/
 Import necessary modules:
 
 ```
-from luminar import simulate
+import simulate
 ```
 
 Run function **.with_jumps**:
